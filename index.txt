@@ -1,0 +1,27 @@
+<html>
+<head>
+        <title> hoja de vida </title>
+</head>
+<body>
+<br>
+<br>
+<div align =¨center¨>
+<img src=¨17f59489-fc16-46ba-870f-616657507dfc.jpg¨ width=¨200¨ height=¨200¨ />
+</div>
+<hr size =¨25¨noshade><br>
+<i>HOJA DE VIDA<br>
+PEPE EL TORO<br>
+Nombre: Ashley Paola <br>
+Apellido: Marínez Osoy <br>
+Grado: 5to. Bachillerato <br>
+Sección: B <br>
+Fecha de nacimiento: 14 de abril del 2008 <br>
+Estudios realizados: <br>
+Parulos: Escuela Oficial de Párvulos <br>
+Primaria: Escuela Tipo Federación <br>
+Basicos: Instituto Profesional de Computación <br>
+Divercificado: Instituto Profesional de Computación <br>
+<br>
+<br>
+</body>
+</html>
